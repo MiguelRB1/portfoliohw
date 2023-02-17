@@ -187,9 +187,10 @@ a {
 #githublink:hover {
     cursor: pointer;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
+    font-style: italic;
 }
 
 footer {
     text-align: center;
+    font-size: 20px;
 }
